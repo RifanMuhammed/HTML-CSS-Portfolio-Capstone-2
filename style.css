@@ -1,0 +1,74 @@
+body{
+    background-color:rgb(90, 120, 99);
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: large;
+    
+    
+}
+.menu li {
+    color: aliceblue;
+    display: inline-flex;
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    /* invisible initially */
+    transition: border-color 0.3s ease;
+    border-radius: 20px;
+    
+}
+
+.menu li:hover {
+    border-color:white;
+    /* shows on hover */
+    color: black;   
+}
+.menu li:hover { 
+    background-color: #ecf5ff;
+    border-radius: 20px;
+}
+
+.new1
+ {
+    background-color: #90AB8B;
+    
+}
+
+.project-card {
+    max-height: 620px;
+    
+    max-width: 400px;
+    margin: auto;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Image zoom on hover */
+.project-img {
+    max-height: 490px;
+   
+    
+    width: 100%;
+
+    
+    
+   object-position: center;
+    
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.project-card:hover .project-img {
+    transform: scale(1.1);
+}
+
