@@ -19,7 +19,7 @@ Built using HTML & CSS only — no JavaScript.
 🙋 About Me – Interests & personal details
 
 📬 Contact – Ways to get in touch
-
+<hr>
 📦 Deliverables
 
 index.html – Website structure
@@ -27,7 +27,7 @@ index.html – Website structure
 style.css – Styling & layout
 
 Assets – Images, icons, etc.
-
+<hr>
 ⚙️ Requirements
 
 Semantic HTML & clean CSS
@@ -35,8 +35,9 @@ Semantic HTML & clean CSS
 Fully responsive design
 
 Accessible images with alt text
-
+<hr>
 🔗 Inspiration
 
 👉 (https://selfiirawan.github.io/bootstrap-portfolio/)
+
 
