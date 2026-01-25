@@ -1,12 +1,15 @@
-Capstone Project: Personal Website
+Capstone Project-2 : Personal Website
+
 📌 What are Capstone Projects?
 
 Capstone projects are hands-on, end-to-end projects designed to bring together everything you’ve learned. They’re a way to apply your skills in a real-world scenario and create something you can proudly showcase in your portfolio 🚀.
+
 
 🧠 Project Description
 
 The goal of this project is to build a personal portfolio website that highlights your skills, experiences, and interests.
 The website should be:
+
 
 🎨 Visually appealing
 
@@ -14,13 +17,18 @@ The website should be:
 
 📱 Responsive across devices
 
+
+
 ⚠️ Tech constraint:
 This project must be built using HTML and CSS only — no JavaScript allowed.
 
-🔍 Example
 
+🔍 Example
 Check out this sample for inspiration:
 👉 https://appbrewery.github.io/capstone-2-example
+
+
+
 
 📦 Deliverables
 
@@ -30,25 +38,31 @@ Check out this sample for inspiration:
 
 🖼️ Additional assets (images, icons, etc.)
 
+
+
+
 ✨ Features
 
 Your website should include the following sections:
 
-🦸 Hero Section
+-🦸 Hero Section
 A brief introduction about you and your background.
 
-📄 Resume Section
+-📄 Resume Section
 Education, work experience, skills, and other relevant details
 (You can link Capstone Project 1 here)
 
-🛠️ Projects Section
+-🛠️ Projects Section
 Showcase your past projects or work.
 
-🙋 About Me Section
+-🙋 About Me Section
 Share more about who you are and your interests.
 
-📬 Contact Me Section
+-📬 Contact Me Section
 Ways for visitors to get in touch with you.
+
+
+
 
 ⚙️ Technical Requirements
 
@@ -59,6 +73,9 @@ Ways for visitors to get in touch with you.
 📱 Ensure the website is fully responsive
 
 ♿ All images must include descriptive alt text for accessibility
+
+
+
 
 ⏱️ Timeline
 
@@ -73,3 +90,4 @@ Finalize design, polish content, and optimize performance
 
 Hour 5 🚀
 Launch the website, share it in Q&A for feedback, and make final tweaks
+
