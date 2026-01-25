@@ -6,6 +6,8 @@ The goal? Build a clean, responsive personal portfolio website that showcases my
 ⚠️ Tech Constraint:
 Built using HTML & CSS only — no JavaScript.
 
+<hr>
+
 ✨ Features
 
 🦸 Hero Section – Quick intro and background
@@ -37,3 +39,4 @@ Accessible images with alt text
 🔗 Inspiration
 
 👉 (https://selfiirawan.github.io/bootstrap-portfolio/)
+
