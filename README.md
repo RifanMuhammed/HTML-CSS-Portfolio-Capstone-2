@@ -1,93 +1,39 @@
-Capstone Project-2 : Personal Website
+🧠 About the Project
 
-📌 What are Capstone Projects?
+A hands-on capstone project to bring together everything I’ve learned so far.
+The goal? Build a clean, responsive personal portfolio website that showcases my skills, projects, and experience.
 
-Capstone projects are hands-on, end-to-end projects designed to bring together everything you’ve learned. They’re a way to apply your skills in a real-world scenario and create something you can proudly showcase in your portfolio 🚀.
-
-
-🧠 Project Description
-
-The goal of this project is to build a personal portfolio website that highlights your skills, experiences, and interests.
-The website should be:
-
-
-🎨 Visually appealing
-
-🧭 Easy to navigate
-
-📱 Responsive across devices
-
-
-
-⚠️ Tech constraint:
-This project must be built using HTML and CSS only — no JavaScript allowed.
-
-
-🔍 Example
-Check out this sample for inspiration:
-👉 https://appbrewery.github.io/capstone-2-example
-
-
-
-
-📦 Deliverables
-
-📄 One HTML file for the website structure
-
-🎨 One CSS file for styling
-
-🖼️ Additional assets (images, icons, etc.)
-
-
-
+⚠️ Tech Constraint:
+Built using HTML & CSS only — no JavaScript.
 
 ✨ Features
 
-Your website should include the following sections:
+🦸 Hero Section – Quick intro and background
 
--🦸 Hero Section
-A brief introduction about you and your background.
+📄 Resume – Education, skills & experience (linked to Capstone 1)
 
--📄 Resume Section
-Education, work experience, skills, and other relevant details
-(You can link Capstone Project 1 here)
+🛠️ Projects – Showcasing my work
 
--🛠️ Projects Section
-Showcase your past projects or work.
+🙋 About Me – Interests & personal details
 
--🙋 About Me Section
-Share more about who you are and your interests.
+📬 Contact – Ways to get in touch
 
--📬 Contact Me Section
-Ways for visitors to get in touch with you.
+📦 Deliverables
 
+index.html – Website structure
 
+style.css – Styling & layout
 
+Assets – Images, icons, etc.
 
-⚙️ Technical Requirements
+⚙️ Requirements
 
-✅ Use semantic HTML and valid markup
+Semantic HTML & clean CSS
 
-🎯 Follow CSS best practices and clean naming conventions
+Fully responsive design
 
-📱 Ensure the website is fully responsive
+Accessible images with alt text
 
-♿ All images must include descriptive alt text for accessibility
+🔗 Inspiration
 
-
-
-
-⏱️ Timeline
-
-Hour 1 🧠
-Gather content, design ideas, wireframes, and mockups
-
-Hour 2–3 💻
-Build HTML structure, style with CSS, and test responsiveness
-
-Hour 4 🎨
-Finalize design, polish content, and optimize performance
-
-Hour 5 🚀
-Launch the website, share it in Q&A for feedback, and make final tweaks
-
+👉 (https://selfiirawan.github.io/bootstrap-portfolio/)
