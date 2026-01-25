@@ -11,6 +11,8 @@ body{
     
     
 }
+
+
 .menu li {
     color: aliceblue;
     display: inline-flex;
@@ -22,21 +24,29 @@ body{
     transition: border-color 0.3s ease;
     border-radius: 20px;
     
+    
 }
+
+
+
+
 
 .menu li:hover {
     border-color:white;
     /* shows on hover */
-    color: black;   
-}
-.menu li:hover { 
-    background-color: #ecf5ff;
+    color: black; 
+   
     border-radius: 20px;
 }
 
-.new1
- {
+.menu .nav-link:hover {
+    color: black;
+}
+
+
+.new1 {
     background-color: #90AB8B;
+    
     
 }
 
