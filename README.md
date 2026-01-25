@@ -1,57 +1,75 @@
-Instructions
+Capstone Project: Personal Website
+📌 What are Capstone Projects?
 
-What are Capstone Projects?
+Capstone projects are hands-on, end-to-end projects designed to bring together everything you’ve learned. They’re a way to apply your skills in a real-world scenario and create something you can proudly showcase in your portfolio 🚀.
 
+🧠 Project Description
 
-Project Description
+The goal of this project is to build a personal portfolio website that highlights your skills, experiences, and interests.
+The website should be:
 
-The goal of this project is to create a personal website that showcases your skills, experiences, and interests. The website should be visually appealing and easy to navigate, while also providing relevant information about you and your background. The site should be built entirely with HTML and CSS, with no JavaScript code included.
+🎨 Visually appealing
 
+🧭 Easy to navigate
 
-Example
+📱 Responsive across devices
 
-https://appbrewery.github.io/capstone-2-example
+⚠️ Tech constraint:
+This project must be built using HTML and CSS only — no JavaScript allowed.
 
+🔍 Example
 
-Deliverables
+Check out this sample for inspiration:
+👉 https://appbrewery.github.io/capstone-2-example
 
-    One HTML file for the structure of the website
+📦 Deliverables
 
-    One CSS file for the styling of the website
+📄 One HTML file for the website structure
 
-    Any additional assets (e.g. images) used in the website
+🎨 One CSS file for styling
 
+🖼️ Additional assets (images, icons, etc.)
 
-Features
+✨ Features
 
-    A hero section that provides a brief introduction to you and your background.
+Your website should include the following sections:
 
-    A resume page that lists your education, work experience, skills, and other relevant information (you can link to Capstone project 1).
+🦸 Hero Section
+A brief introduction about you and your background.
 
-    A section that showcases any projects or work that you have done in the past.
+📄 Resume Section
+Education, work experience, skills, and other relevant details
+(You can link Capstone Project 1 here)
 
-    An about me section that provides additional information about you and your interests.
+🛠️ Projects Section
+Showcase your past projects or work.
 
-    A contact me section that includes information for users to get in touch with you.
+🙋 About Me Section
+Share more about who you are and your interests.
 
+📬 Contact Me Section
+Ways for visitors to get in touch with you.
 
-Technical Requirements
+⚙️ Technical Requirements
 
-    All HTML should be valid and follow proper semantic markup.
+✅ Use semantic HTML and valid markup
 
-    All CSS should be valid and follow best practices for naming conventions and organization.
+🎯 Follow CSS best practices and clean naming conventions
 
-    The website should be responsive and work on different screen sizes and devices.
+📱 Ensure the website is fully responsive
 
-    All images used in the website should have appropriate alt text to be accessible.
+♿ All images must include descriptive alt text for accessibility
 
+⏱️ Timeline
 
-Timeline
+Hour 1 🧠
+Gather content, design ideas, wireframes, and mockups
 
-    Hour 1: Gather content and design ideas, create wireframes and mockups.
+Hour 2–3 💻
+Build HTML structure, style with CSS, and test responsiveness
 
-    Hour 2-3: Develop HTML structure and CSS styling, test on different devices and browsers.
+Hour 4 🎨
+Finalize design, polish content, and optimize performance
 
-    Hour 4: Finalize design and content, make any necessary revisions, optimize for performance.
-
-    Hour 5: Launch the website and share with others in the Q&A for feedback, make any final adjustments.
+Hour 5 🚀
+Launch the website, share it in Q&A for feedback, and make final tweaks
