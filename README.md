@@ -36,8 +36,7 @@ Fully responsive design
 
 Accessible images with alt text
 <hr>
-🔗 Inspiration
 
-👉 (https://selfiirawan.github.io/bootstrap-portfolio/)
+
 
 
