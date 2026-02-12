@@ -1,44 +1,52 @@
-🧠 About the Project
+# 💼 Personal Portfolio — Capstone Project 2
 
-A hands-on capstone project to bring together everything I’ve learned so far.
-The goal? Build a clean, responsive personal portfolio website that showcases my skills, projects, and experience.
-
-⚠️ Tech Constraint:
-Built using HTML & CSS only — no JavaScript.
+A fully responsive personal portfolio website built using **HTML and CSS only**.
+This project brings together everything learned so far to create a clean and structured portfolio.
 
 <hr>
 
-✨ Features
+## 🧠 About the Project
 
-🦸 Hero Section – Quick intro and background
+The goal of this capstone was to design a real portfolio website that showcases:
 
-📄 Resume – Education, skills & experience (linked to Capstone 1)
+* Skills
+* Projects
+* Resume
+* Personal details
 
-🛠️ Projects – Showcasing my work
+⚠️ **Constraint:** No JavaScript — only HTML & CSS
 
-🙋 About Me – Interests & personal details
-
-📬 Contact – Ways to get in touch
-<hr>
-📦 Deliverables
-
-index.html – Website structure
-
-style.css – Styling & layout
-
-Assets – Images, icons, etc.
-<hr>
-⚙️ Requirements
-
-Semantic HTML & clean CSS
-
-Fully responsive design
-
-Accessible images with alt text
 <hr>
 
+## ✨ Features
 
+* 🏠 Hero Section — Introduction & background
+* 📄 Resume — Education, skills & experience
+* 🧩 Projects — Showcase of completed work
+* 👤 About Me — Interests & personal info
+* 📬 Contact — Ways to get in touch
 
+<hr>
 
+## 📂 Project Structure
 
+```
+index.html   → Website structure
+style.css    → Styling & layout
+assets/      → Images & icons
+```
 
+<hr>
+
+## 🎯 Purpose
+
+This project was created to practice:
+
+* Semantic HTML
+* Clean CSS structure
+* Responsive design
+* Real portfolio layout building
+
+<hr>
+
+⭐ A complete beginner portfolio built without JavaScript.
